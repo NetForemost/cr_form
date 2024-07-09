@@ -1,0 +1,1 @@
+const kDefaultKeyboardHeight = 300.0;
